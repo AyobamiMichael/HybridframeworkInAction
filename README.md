@@ -22,8 +22,8 @@ pip install xarray netCDF4 tensorly
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hybrid-framework-temperature.git
-   cd hybrid-framework-temperature
+   git clone https://github.com/AyobamiMichael/HybridframeworkInAction.git
+   cd HybridframeworkInAction
    ```
 2. Open the Jupyter Notebook:
    ```bash
